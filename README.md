@@ -7,3 +7,4 @@ Dataset:
 4. Upload dataset movies.metadata.tsv in the given colab file mentioned in Rec_system.ipynb
 5. Run Colab File after uploading dataset
    
+video link https://youtu.be/MZPlUcSFgfA
